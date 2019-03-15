@@ -2,6 +2,9 @@
 
 GTA V Cheats for Pebble
 ===================
+<p align="center">
+        <img src="logo.png" alt="PNG" height="200px" />
+</p>
 
 ## Wish list
 
